@@ -1,0 +1,8 @@
+C:\C#\repos\PZ1\bin\Debug\PZ1.exe.config
+C:\C#\repos\PZ1\bin\Debug\PZ1.exe
+C:\C#\repos\PZ1\bin\Debug\PZ1.pdb
+C:\C#\repos\PZ1\obj\Debug\PZ1.csproj.AssemblyReference.cache
+C:\C#\repos\PZ1\obj\Debug\PZ1.csproj.SuggestedBindingRedirects.cache
+C:\C#\repos\PZ1\obj\Debug\PZ1.csproj.CoreCompileInputs.cache
+C:\C#\repos\PZ1\obj\Debug\PZ1.exe
+C:\C#\repos\PZ1\obj\Debug\PZ1.pdb
