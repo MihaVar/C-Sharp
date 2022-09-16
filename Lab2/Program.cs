@@ -36,7 +36,11 @@ namespace Lab2
                 {
                     Console.WriteLine("Неправильно задана змінна!");
                 }
-            } while (!isNKOk || nk < 0);
+                else if (nn > nk)
+                {
+                    Console.WriteLine("Змінна повинна бути більшою за попередню!");
+                }
+            } while (!isNKOk || nk < 0 || nn > nk);
 
             for (double k = nn; k < nk; k++)
             {
