@@ -13,7 +13,7 @@ namespace Lab5
         static void Main()
         {
             int m, n; 
-            Console.WriteLine("Введіть розмірність масиву (стовбці х рядки): ");
+            Console.WriteLine("Введіть розмірність масиву (рядки х стовбці): ");
             m = int.Parse(Console.ReadLine());
             n = int.Parse(Console.ReadLine());
             int[,] arr = new int[m, n]; //масив із вказаною розмірністю
