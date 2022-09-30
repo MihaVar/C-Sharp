@@ -23,7 +23,7 @@ namespace Lab5
             {
                 for (int j = 0; j < n; j++)
                 {
-                    arr[i, j] = rn.Next(0, 50) - 5;
+                    arr[i, j] = rn.Next(0, 50);
                 }
             }
             Console.WriteLine("Оригінальний масив: " + "\n");
